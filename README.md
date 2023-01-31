@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdaftab09
 - 👀 I’m interested in coding
-- 🌱 Currently I'm enrolled in CS50's Introduction to Computer Science.@2022
-- 💞️ I’m looking for batchmate @CS50 2022 for the mentioned course.
+- 🌱 Currently I'm pursuing BTech Computer Science and Engineering
+- 💞️ I’m looking for teammate for GSOC 2024.
 - 📫 Reach me at raftab36@gmail.com
 
 <!---
