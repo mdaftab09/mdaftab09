@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdaftab09
 - 👀 I’m interested in coding
 - 🌱 Currently I'm pursuing BTech Computer Science and Engineering
-- 💞️ I’m looking for teammate for GSOC 2024.
+- 💞️ I’m a passionate java fullstack developer.
 - 📫 Reach me at raftab36@gmail.com
 
 <!---
