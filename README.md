@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdaftab09
+- 👋 Hi, I’m Md Aftab
 - 💞️ I’m a passionate java fullstack developer.
 - 📫 Reach me at raftab36@gmail.com
 
