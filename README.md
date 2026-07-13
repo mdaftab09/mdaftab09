@@ -38,47 +38,6 @@ Learning how to integrate LLMs into backend systems using Spring Boot while keep
 
 ---
 
-## Tech Stack
-
-### Backend
-
-- Java
-- Spring Boot
-- REST APIs
-- Spring Security
-- JPA / Hibernate
-
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-### Database
-
-- PostgreSQL
-- MySQL
-- Supabase
-
-### Cloud & DevOps
-
-- Docker
-- Git
-- GitHub Actions
-- CI/CD
-- AWS (Learning)
-
-### Currently Exploring
-
-- AI-assisted Applications
-- LLM APIs
-- Cloud Architecture
-- Software Design
-- System Design
-- Security Best Practices
-
----
-
 ## What Interests Me
 
 I enjoy building software in areas like:
