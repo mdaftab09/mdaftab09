@@ -15,44 +15,6 @@ I'm naturally curious, so I continuously explore new technologies—but I believ
 
 ---
 
-## What I'm Currently Building
-
-🏫 School ERP System
-
-A production-oriented School Management System with:
-
-- Student & Staff Management
-- Attendance
-- Fee Management
-- Authentication
-- Role-Based Access Control
-- PostgreSQL Database
-- Supabase Integration
-- Next.js Frontend
-
----
-
-🤖 AI-powered Backend Experiments
-
-Learning how to integrate LLMs into backend systems using Spring Boot while keeping software architecture clean, maintainable and production-oriented.
-
----
-
-## What Interests Me
-
-I enjoy building software in areas like:
-
-- Business Applications
-- ERP Systems
-- Backend Services
-- Developer Tools
-- Cloud-native Applications
-- AI-enhanced Software
-- Automation
-- Security-focused Applications
-
----
-
 ## Current Goal
 
 As a recent Computer Science graduate with internship experience, my goal is to become an engineer capable of designing, building, deploying and maintaining complete software systems.
