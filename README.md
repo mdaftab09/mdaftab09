@@ -27,4 +27,3 @@ I'm continuously improving my understanding of software architecture, cloud tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aftabrazaansari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aftabraza.jh@gmail.com)
-Always open to discussing software engineering, backend development, architecture, open source and interesting product ideas.
