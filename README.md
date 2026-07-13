@@ -7,7 +7,7 @@ Backend-focused Full Stack Engineer. I build production-grade software with Java
 
 ### What I care about
 
-I don't optimize for knowing the most languages. I optimize for shipping software that is well-architected, secure and maintainable — the kind of work that holds up under real usage, not just in a demo.
+I don't optimize for knowing the most languages. I optimize for shipping software that is well-architected, secure and maintainable. The kind of work that holds up under real usage, not just in a demo.
 
 Right now I'm going deep on backend engineering and cloud-native systems, while extending that foundation into AI-integrated services (not chasing AI as a separate track — building it *into* real backend architecture).
 
